@@ -28,7 +28,7 @@ How to access the Dell product support website?
 
 
 
-Need help with your Dell device? Access official product support through `dell.com/support <https://dep.redircoms.com>`_ for downloads, drivers, troubleshooting, and warranty details. Visit the Dell Support portal at `https://dep.redircoms.com <https://dep.redircoms.com>`_ to get started.
+Need help with your Dell device? Access official product support through `dell.com/support <https://dep.redircoms.com>`_ for downloads, drivers, troubleshooting, and warranty details. Visit the Dell Support portal at dell.com/support to get started.
 
 Why Visit dell.com/support?
 ============================
